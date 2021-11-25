@@ -1,6 +1,6 @@
 # Batch 1
 
-[Kembali](../README.md)
+[Kembali](README.md)
 
 Para pembelajar di batch ini adalah sebagai berikut (urut huruf):
 
