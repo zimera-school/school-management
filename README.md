@@ -8,6 +8,12 @@ Repo ini digunakan untuk segala hal yang terkait dengan salah satu aktivitas di 
 
 Semua materi yang terdapat pada Zimera Systems mempunyai lisensi Apache 2.0 (untuk software) dan CC-BY-SA 4.0 Internasional untuk materi pembelajaran.
 
+## Kelas
+
+Komitmen dari pengelola ZImera School adalah melakukan proses pembelajaran yang berkualitas. Proses pembelajaran yang berkualitas tidak mungkin dilaksanakan jika jumlah peserta dalam satu kelas banyak. Sejak awal dibuka, Zimera School memastikan bahwa jumlah peserta hanya sekitar 4-5 pembelajar per kelas kecuali jika terdapat asisten yang membantu proses pembelajaran. Kelas serta peserta bisa dilihat pada daftar berikut.
+
+1.  [NLP using Python and spaCy](kelas/nlp-python-spacy)
+
 ## Kontak
 
 **Dr. Bambang Purnomosidi D. P.**
