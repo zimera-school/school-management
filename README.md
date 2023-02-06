@@ -18,7 +18,7 @@ Komitmen dari pengelola ZImera School adalah melakukan proses pembelajaran yang 
 
 **Dr. Bambang Purnomosidi D. P.**
 
-**_Zimera Corporation - Zimera School**
+**Zimera Corporation - Zimera School**
 
 Dusun Medelan - RT 01, Umbulmartani, Ngemplak, Sleman, DIY 55584
 
